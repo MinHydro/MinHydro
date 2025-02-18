@@ -12,7 +12,7 @@ I'm a second-year **Computer Science** student at **De Anza College**, also stud
 - 🏦 **Mutual Fund Management System** (Java, BST, HashTable) - A project for CIS 22C.
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhlonghang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-long-hang-694712283/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhlonghang)
 
 ✨ **Always eager to learn and collaborate!** 🚀
