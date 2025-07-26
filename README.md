@@ -1,7 +1,7 @@
 # Hi there, I'm Minh Long Hang! 👋
 
 ## 🚀 About Me
-I'm a third-year **Computer Science** student at **De Anza College**, also studying **Economics**. I'm passionate about problem-solving, data structures, and software development. Currently, I'm enhancing my coding skills and contributing to open-source projects.
+I'm a third-year **Computer Science** student at **San Jose State University**. I'm passionate about problem-solving, data structures, and software development. Currently, I'm enhancing my coding skills and contributing to open-source projects.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
